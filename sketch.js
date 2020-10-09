@@ -15,9 +15,9 @@ function preload()
   dogImg = loadImage("sprites/dogImg.png");
   happyDog= loadImage("sprites/dogImg1.png");
 
-  bedroom = loadImage("images/BedRoom.png");
-  garden = loadImage("images/Garden.png");
-  washroom = loadImage("images/WashRoom.png");
+  bedroom = loadImage("images/virtual pet images/BedRoom.png");
+  garden = loadImage("images/virtual pet images/Garden.png");
+  washroom = loadImage("images/virtual pet images/WashRoom.png");
 }
 
 function setup() {
